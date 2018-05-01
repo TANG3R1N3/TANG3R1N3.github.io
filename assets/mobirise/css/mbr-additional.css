@@ -849,13 +849,6 @@ h6,
 #extHeader10-j H3 {
   color: #f97352;
 }
-#social-buttons4-11 .mbr-section-title,
-#social-buttons4-11 .btn-social {
-  color: #fff;
-}
-#social-buttons4-11 .mbr-section-title {
-  font-size: 36px;
-}
 
 #ext_menu-h .hide-buttons .nav-btn {
   display: none !important;
@@ -925,7 +918,7 @@ h6,
 }
 #form2-z .mbr-section-title {
   color: #fff;
-  font-size: 36px;
+  font-size: 24px;
 }
 #form2-z .mbr-section-subtitle {
   color: #a0a0a0;
@@ -1011,21 +1004,21 @@ h6,
 #ext_menu-k A {
   font-size: 14px;
 }
-#extHeader10-18 P {
+#extHeader10-1e P {
   text-align: left;
   color: #ffffff;
 }
-#extHeader10-18 H3 {
+#extHeader10-1e H3 {
   color: #f97352;
 }
-#features7-1a .card-subtitle {
+#features7-1c .card-subtitle {
   color: #bcbcbc;
 }
-#features7-1a .iconbox {
+#features7-1c .iconbox {
   background-color: #000000;
   border-color: #000000;
 }
-#features7-1a H4 {
+#features7-1c H4 {
   color: #ffffff;
 }
 
@@ -1209,11 +1202,4 @@ h6,
 }
 #extHeader10-u H3 {
   color: #f97352;
-}
-#social-buttons4-16 .mbr-section-title,
-#social-buttons4-16 .btn-social {
-  color: #fff;
-}
-#social-buttons4-16 .mbr-section-title {
-  font-size: 36px;
 }
