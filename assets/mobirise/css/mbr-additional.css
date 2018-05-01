@@ -952,6 +952,13 @@ h6,
 #extFeatures14-x H3 {
   color: #efefef;
 }
+#msg-box2-22 .mbr-section-title {
+  color: #fff;
+  font-size: 24px;
+}
+#msg-box2-22 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #extFooter1-q .mbr-section-title {
   color: #f97352;
   font-size: 36px;
@@ -1216,14 +1223,4 @@ h6,
 #extHeader10-1y H3 {
   color: #f97352;
   text-align: left;
-}
-#features7-1z .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-1z .iconbox {
-  background-color: #000000;
-  border-color: #000000;
-}
-#features7-1z H4 {
-  color: #ffffff;
 }
