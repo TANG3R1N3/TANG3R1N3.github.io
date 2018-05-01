@@ -1216,11 +1216,21 @@ h6,
 #ext_menu-1u A {
   font-size: 14px;
 }
-#extHeader10-1y P {
+#extHeader10-23 P {
   text-align: left;
   color: #ffffff;
 }
-#extHeader10-1y H3 {
+#extHeader10-23 H3 {
   color: #f97352;
   text-align: left;
+}
+#features7-25 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-25 .iconbox {
+  background-color: #000000;
+  border-color: #000000;
+}
+#features7-25 H4 {
+  color: #ffffff;
 }
