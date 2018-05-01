@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TANG3R1N3",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -153,7 +153,7 @@
             ".mbr-section-title": {
               "color": "#f97352",
               "text-align": "left",
-              "font-size": "60px"
+              "font-size": "46px"
             },
             ".mbr-section-lead": {
               "color": "#ffffff",
@@ -297,7 +297,8 @@
               "border-color": "#000000"
             },
             "H4": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "17px"
             }
           },
           "title1": "EDUCATION",
@@ -334,7 +335,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "24px"
+              "font-size": "17px"
             }
           },
           "_params": {
@@ -407,7 +408,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#f97352",
-              "font-size": "36px"
+              "font-size": "24px"
             },
             "UL": {
               "color": "#ffffff"
@@ -554,7 +555,7 @@
           "form": {
             "action": "battyboomboom@hotmail.se",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for contacting us!"
             },
             "fields": {
               "email": {
@@ -872,7 +873,7 @@
           "title": "EDUCATION SOLUTIONS",
           "text": "With the digital world comes digital challenges. one of the most difficult areas to solve with regards to being totally digital, is in schools, in education. We have solutions to help you become digital, which in turn helps you to become efficient and helps your students to achieve more success in their studies than was thought possible . Contact us for a free consultation so that we can help you and your eductional facility become truly digital.\n<br><br>TANG3R1N3",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH WEB</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH EDUCATION</a>",
           "form": {
             "action": "battyboomboom@hotmail.se",
             "alerts": {
@@ -913,7 +914,8 @@
             },
             "H3": {
               "color": "#f97352",
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "32px"
             }
           },
           "_anchor": "extHeader10-2i"
@@ -1637,7 +1639,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#f97352",
-              "font-size": "36px"
+              "font-size": "24px"
             },
             "UL": {
               "color": "#ffffff"
@@ -1776,7 +1778,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "WEB SOLUTIONS",
-          "text": "We have a quick and easy web policy for our clients.<br>Scroll down to find out more.<br><br><br>",
+          "text": "We have a quick and easy web solution for our clients.<br>Scroll down to find out more.<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED WITH WEB</a>",
           "form": {
@@ -1978,7 +1980,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#f97352",
-              "font-size": "36px"
+              "font-size": "24px"
             },
             "UL": {
               "color": "#ffffff"
@@ -2146,7 +2148,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#f97352",
-              "font-size": "36px"
+              "font-size": "24px"
             },
             "UL": {
               "color": "#ffffff"
@@ -2163,7 +2165,7 @@
             "showArrow": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-771x1080.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
