@@ -29,7 +29,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 83,
+    "uniqCompNum": 85,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
@@ -2003,7 +2003,7 @@
               "text-align": "left"
             }
           },
-          "_anchor": "extHeader10-28"
+          "_anchor": "extHeader10-2b"
         },
         {
           "_params": {
@@ -2110,7 +2110,7 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-29"
+          "_anchor": "features3-2c"
         }
       ]
     }
