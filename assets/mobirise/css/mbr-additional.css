@@ -940,6 +940,16 @@ h6,
   color: #f97352;
   text-align: left;
 }
+#features7-2l .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-2l .iconbox {
+  background-color: #000000;
+  border-color: #000000;
+}
+#features7-2l H4 {
+  color: #ffffff;
+}
 
 #ext_menu-1m .hide-buttons .nav-btn {
   display: none !important;
