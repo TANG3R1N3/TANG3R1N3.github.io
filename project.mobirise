@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TANG3R1N3",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 64,
+    "uniqCompNum": 65,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
@@ -194,7 +194,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": false,
             "iconsBgColor": "#000000",
             "paddingTop": "1",
@@ -376,7 +376,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT</li></ul>",
+          "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT</li></ul>",
           "title": "TANG3R1N3",
           "media": {
             "image": {
@@ -543,7 +543,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT</li></ul>",
+          "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT</li></ul>",
           "title": "TANG3R1N3",
           "media": {
             "image": {
@@ -810,7 +810,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": false,
             "iconsBgColor": "#000000",
             "paddingTop": "1",
@@ -1235,7 +1235,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT</li></ul>",
+          "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT</li></ul>",
           "title": "TANG3R1N3",
           "media": {
             "image": {
@@ -1403,7 +1403,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT</li></ul>",
+          "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT</li></ul>",
           "title": "TANG3R1N3",
           "media": {
             "image": {
@@ -1509,6 +1509,144 @@
             }
           },
           "_anchor": "extHeader10-u"
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "#000000",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ed5631",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "pages",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "devices",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#000000",
+              "border-color": "#000000"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "title1": "EDUCATION",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "COMPANY",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "WEB",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "ICT",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "CONTACT",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-1s"
         }
       ]
     },
@@ -1696,7 +1834,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": false,
             "iconsBgColor": "#000000",
             "paddingTop": "1",
@@ -1848,7 +1986,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT</li></ul>",
+          "list": "<ul><li><a href=\"page1.html\">E</a>DUCATION</li><li><a href=\"\" class=\"text-white\">C</a>OMPANY</li><li><a href=\"\" class=\"text-white\">W</a>EB</li><li><a href=\"\">I</a>CT</li><li><a href=\"\">C</a>ONTACT</li></ul>",
           "title": "TANG3R1N3",
           "media": {
             "image": {

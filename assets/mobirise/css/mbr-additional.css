@@ -1116,6 +1116,16 @@ h6,
 #extHeader10-u H3 {
   color: #f97352;
 }
+#features7-1s .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-1s .iconbox {
+  background-color: #000000;
+  border-color: #000000;
+}
+#features7-1s H4 {
+  color: #ffffff;
+}
 
 #ext_menu-1m .hide-buttons .nav-btn {
   display: none !important;
