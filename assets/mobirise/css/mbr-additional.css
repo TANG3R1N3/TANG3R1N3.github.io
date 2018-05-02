@@ -1307,6 +1307,12 @@ h6,
 #ext_menu-2o A {
   font-size: 14px;
 }
+#features3-2x P {
+  text-align: left;
+}
+#features3-2x H4 {
+  color: #f97352;
+}
 
 #ext_menu-2p .hide-buttons .nav-btn {
   display: none !important;
