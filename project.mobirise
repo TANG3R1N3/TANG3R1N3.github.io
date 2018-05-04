@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TANG3R1N3",
-    "currentPage": "page7.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2607,34 +2607,46 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/front-600x291.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/test01-600x583.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/test04-600x259.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/test03-600x264.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {
@@ -2653,16 +2665,16 @@
               "active": true
             }
           },
-          "title1": "DIGITAL LESSON PLANNING",
+          "title1": "<br><br><br>DIGITAL LESSON PLANNING",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.<br>Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.<br>Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.<br>",
           "title2": "DIGITAL TESTS",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.<br>Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.\n<br>Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.<br>",
-          "title3": "DIGITAL DEVELOPMENT",
+          "title3": "<br><br><br>DIGITAL DEVELOPMENT",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.<br>Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.\n<br>Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.<br>",
-          "title4": "IMPROVED RESULTS",
+          "title4": "<br><br><br>IMPROVED RESULTS",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.\n<br>Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.<br>",
           "title5": "Trendy Website Blocks",
