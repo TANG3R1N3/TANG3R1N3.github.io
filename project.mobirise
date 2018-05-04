@@ -2761,10 +2761,13 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/test01-600x583.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {
@@ -2983,7 +2986,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers0.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -3193,7 +3196,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers0.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
